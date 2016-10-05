@@ -18,7 +18,7 @@ import org.net.eboutique.entities.Users;
 import org.springframework.stereotype.Repository;
 
 public class BoutiqueDaoImpl implements IBoutiqueDao{
-	
+	sqsqs
 	
 	private EntityManager em;
 	
